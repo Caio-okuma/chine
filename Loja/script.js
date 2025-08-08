@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function(){
     .then((data) => {
         produtos = data
         console.log(data)
-
+        
 
 
     }).catch((error) => console.error('Erro ao carregar dados', error))
