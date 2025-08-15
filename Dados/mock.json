@@ -1,57 +1,53 @@
 [
     {
         "id": 1,
-        "descricao": "Bandeja de Morango",
-        "imagem": "../Dados/images/morango.jpg",
-        "preco": 20.0
+        "descricao": "Alteres",
+        "imagem": "../Dados/images/alter.webp",
+        "preco": 200.0
     },
     {
         "id": 2,
-        "descricao": "Saco de Laranja",
-        "imagem": "../Dados/images/laranja.jpg",
-        "preco": 35.0
+        "descricao": "Puxada máquina",
+        "imagem": "../Dados/images/PUXADA.webp",
+        "preco": 1250.0
     },
     {
         "id": 3,
-        "descricao": "Saco de Batata",
-        "imagem": "../Dados/images/batata.avif",
-        "preco": 40.0
+        "descricao": "Leg press",
+        "imagem": "../Dados/images/leg.jpg",
+        "preco": 1500.0
     },
     {
         "id": 4,
-        "descricao": "Limão unidade",
-        "imagem": "../Dados/images/limao.jpg",
-        "preco": 1.0
+        "descricao": "Mesa flexora",
+        "imagem": "../Dados/images/mesa.jpg",
+        "preco": 1200.0
     },
     {
         "id": 5,
-        "descricao": "Mamão unidade",
-        "imagem": "../Dados/images/mamao.jpg",
-        "preco": 16.0
+        "descricao": "Cross over",
+        "imagem": "../Dados/images/cross.jpeg",
+        "preco": 2500.0
     },
     {
         "id": 6,
-        "descricao": "Bandeja de Cereja",
-        "imagem": "../Dados/images/cereja.jpg",
-        "preco": 60.0
+        "descricao": "Cadeira extensora",
+        "imagem": "../Dados/images/flexor.jpg",
+        "preco": 2000.0
     },
     {
         "id": 7,
-        "descricao": "Cacho de Banana",
-        "imagem": "../Dados/images/banana.jpg",
-        "preco": 5.0
+        "descricao": "Peck deck",
+        "imagem": "../Dados/images/voador.png",
+        "preco": 2600.0
     },
     {
         "id": 8,
-        "descricao": "Kiwi unidade",
-        "imagem": "../Dados/images/kiwi.jpg",
-        "preco": 3.0
-    },
-     {
-        "id": 9,
-        "descricao": "Maracujá unidade",
-        "imagem": "../Dados/images/maracuja.jpg",
-        "preco": 5.30
+        "descricao": "supino",
+        "imagem": "../Dados/images/mesa a.jpg",
+        "preco": 1100.0
     }
+
 ]
+    
 
